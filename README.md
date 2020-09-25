@@ -1,0 +1,1 @@
+dummy website to learn how to use the Microsoft Advertising platform
